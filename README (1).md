@@ -5,7 +5,7 @@
 | Item | Details |
 |---|---|
 | Project title | Library Management System |
-| Student name | Maysara (اكتب اسمك الكامل) |
+| Student name | Maysara Dafaallh hassan
 | Student ID | 202512952 |
 | Business idea | Library Management System |
 | DBMS | PostgreSQL 18 (pgAdmin 4) |
