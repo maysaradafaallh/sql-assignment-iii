@@ -2,7 +2,7 @@
 
 UML Class Diagram Modelling Assignment | Kigali Independent University (ULK) | Instructor: Eric Maniraguha
 
-**Group members:** Maysara Dafaallh (202512952) and Ahmed Alhadi (202513597)
+ Maysara Dafaallh _ 202512952
 
 ## Business idea
 A hotel needs an information system to manage its clients, rooms, bookings and payments, replacing paper records and spreadsheets that cause double bookings, lost records and weak payment tracking.
